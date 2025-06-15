@@ -1,0 +1,13 @@
+Contributing
+============
+
+.. image:: https://www.mypy-lang.org/static/mypy_badge.svg
+   :target: https://mypy-lang.org/
+   :alt: Checked with mypy
+
+.. image:: https://microsoft.github.io/pyright/img/pyright_badge.svg
+   :target: https://microsoft.github.io/pyright/
+   :alt: Checked with pyright
+
+.. include:: ../CONTRIBUTING.md
+  :parser: myst_parser.sphinx_

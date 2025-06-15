@@ -1,0 +1,8 @@
+[run]
+branch = True
+source = drf_spectacular_extras
+omit =
+    drf_spectacular_extras/settings.py
+
+[report]
+show_missing = True
